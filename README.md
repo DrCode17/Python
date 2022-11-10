@@ -6,8 +6,6 @@ Ha jobban és mélyebben érdekel a téma vagy csak mélyebben elsajátítanád 
 
 Emelt érettségik: http://informatika.fazekas.hu/erettsegi/emelt-szintu-feladatok/
 
-Minden óra után vannak gyakorló feladatok, amik elkészítése javasolt, illetve további feladatok:
-
 
 Tematika
 1. óra:  Ismerkedés, programozás alapjai, 
